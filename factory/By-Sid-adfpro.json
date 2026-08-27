@@ -1,0 +1,15 @@
+{
+	"name": "By-Sid-adfpro",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85e062ac-928a-4b14-9d80-fb85fa0d162b",
+		"tenantId": "5aecea29-8393-4356-822f-95bde68454bf"
+	}
+}
